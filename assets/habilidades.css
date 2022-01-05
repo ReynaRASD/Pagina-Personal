@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Shadows+Into+Light&display=swap');
+
+body{
+    background-image: url(../img/R.jpg);
+    background-size: cover;
+    font-family: 'Shadows Into Light', cursive, border;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 90px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+.texto{
+    font-size: 50px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+table{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Shadows+Into+Light&display=swap');
+
+body{
+    background-image: url(../img/contacto.jfif);
+    background-size: cover;
+}
+
+.txt{
+    color: white;
+    font-family: 'Shadows Into Light', cursive, border;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1{
+font-size: 70px;
+color: white;
+font-family: 'Shadows Into Light', cursive, border;
+text-align: center;
+text-decoration: underline;
+}
+
+input{
+    width: 300px;
+}
+
+.ms{
+    height: 200px;
+    width: 500px;
+}
+
+.p1{
+margin-left: 5%;
+}
+
+.p2{
+    margin-left: 7%;
+}
+
+.p3{
+    margin-left: 4%;
+}
+
+.p4{
+    margin-left: 7%;
+}
+
+button{
+    font-family: 'Shadows Into Light', cursive, border;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}

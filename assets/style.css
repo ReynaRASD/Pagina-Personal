@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Shadows+Into+Light&display=swap');
+
+body{
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+}
+
+h1{
+
+    font-size: 100px;
+    color:rgb(255, 255, 255);
+
+    /*background-color=Color de fondo*/
+    background-image: url(../img/R5.jpg);
+    background-size: cover;
+
+    /*Nos permite alinear el texto*/
+    text-align: center;
+
+    font-family: 'Shadows Into Light', cursive, border;
+}
+
+h2{
+    font-size: 70px;
+    color:rgb(255, 255, 255);
+
+    /*background-color=Color de fondo*/
+    background-image: url(../img/R5.jpg);
+    background-size: cover;
+    width: 600px;
+    height: 130px;
+    margin: 0 auto;
+    /*Nos permite alinear el texto*/
+    text-align: center;
+
+    font-family: 'Shadows Into Light', cursive, border;
+}
+
+.cv{
+    margin-left: 90%;
+}
+
+
+button{
+    font-family: 'Shadows Into Light', cursive, border;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+
+.boton{
+    font-size: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.texto{
+    font-size: 80px;
+    color: black;
+    text-decoration: none;
+}
+
+.texto2{
+    font-size: 60px;
+    color: black;
+    text-decoration: none;
+}
+   
+.texto3{
+    font-size: 80px;
+    color: white;
+    text-decoration: none;
+}
+
+.dis{
+    background-image: url(../img/R2.jpg);
+    border: 15px solid rgb(0, 0, 0);
+    text-align: center;
+    margin-left: 10%;
+    
+}
+
+.home{
+    background-image: url(../img/R3.jpg);
+    border: 15px solid rgb(0, 0, 0);
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contacto{
+    background-image: url(../img/R5.jpg);
+    border: 15px solid rgb(0, 0, 0);
+    text-align: center;
+    margin-left: 70%;
+}
+
+.descripcion{
+    background-image: url(../img/R4.jpg);
+    border: 15px solid rgb(0, 0, 0);
+    text-align: center;
+    margin: 0 auto;
+}
+
+.formulario{
+    background-image: url(../img/R5.jpg);
+    border: 15px solid rgb(0, 0, 0);
+    text-align: center;
+    margin-left: 10%;
+}
+
+.habilidades{
+    background-image: url(../img/R3.jpg);
+    border: 15px solid rgb(0, 0, 0);
+    text-align: center;
+    margin: 0 auto;
+}
+
+.repo{
+    background-image: url(../img/R2.jpg);
+    border: 15px solid rgb(0, 0, 0);
+    text-align: center;
+    margin-left: 70%;
+}
